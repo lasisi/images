@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>S180.jpeg</filename>
+	<path>C:\Users\adabara\Desktop\soil relabel\test\S180.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sandy_soil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>46</ymin>
+			<xmax>180</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>

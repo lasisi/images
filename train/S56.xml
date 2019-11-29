@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>S56.jpg</filename>
+	<path>C:\Users\adabara\Desktop\soil relabel\train\S56.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sandy_soil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>18</ymin>
+			<xmax>206</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>
